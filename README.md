@@ -1,1 +1,3 @@
-# Clase02 de HTML para la camada 1617: Archivo de prueba, semantica, listas y receta
+# 2.-1617-Clase02-SegundaPartedeHTML
+
+Archivo de prueba, semantica, listas y receta
